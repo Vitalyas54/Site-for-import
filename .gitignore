@@ -1,0 +1,6 @@
+*.tmp
+tmp/
+*.*_old
+*.*_buckup
+Thumbs.db
+*.DS_Store
